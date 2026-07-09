@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# App archives and export output
+*.xcarchive
+*.ipa
+ExportOptions.plist
+
+# macOS
+*.swp
